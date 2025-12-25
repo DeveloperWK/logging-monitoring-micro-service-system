@@ -114,7 +114,7 @@ Client Apps / Services
     - Reverse Proxy
     - HTTP / WebSocket support
 
-📁 Config Repo: gateway (NGINX configuration)
+📁 Config Repo: [gateway (NGINX configuration)](https://github.com/DeveloperWK/log-nginx-gateway.git)
 
 5️⃣ Node.js SDK (Express Middleware)
 
